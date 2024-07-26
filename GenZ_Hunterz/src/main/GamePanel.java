@@ -13,6 +13,7 @@ public class GamePanel extends JPanel implements Runnable{
 	final int tileSize = originalTileSize*scale; //48 x 48
 	final int maxScreenCol = 16;
 	final int maxScreenRow = 12;
+	
 	final int screenWidth = tileSize*maxScreenCol; // (48*16 = 768)
 	final int screenHeight = tileSize*maxScreenRow; // (48*12 = 576
 	
@@ -38,6 +39,7 @@ public class GamePanel extends JPanel implements Runnable{
 			
 			//DRAW : draw the screen with the updated information
 			repaint();
+			System.out.println("Bhabesh");
 		}
 	}
 	public void update() {
