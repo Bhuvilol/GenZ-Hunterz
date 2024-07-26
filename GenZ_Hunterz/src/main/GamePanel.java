@@ -39,7 +39,6 @@ public class GamePanel extends JPanel implements Runnable{
 			
 			//DRAW : draw the screen with the updated information
 			repaint();
-			System.out.println("Bhabesh");
 		}
 	}
 	public void update() {
