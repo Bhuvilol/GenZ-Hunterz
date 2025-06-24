@@ -4,22 +4,6 @@ Welcome to **GenZ-Hunterz** — a fun, retro-inspired 2D adventure game made wit
 
 ---
 
-## 📸 Screenshots
-
-Here's a glimpse of the adventure:
-
-![Title Screen](screenshots/title_screen.png)
-*The main menu welcomes you to the adventure!*
-
-![Gameplay](screenshots/gameplay1.png)
-*Explore the world, battle monsters, and collect treasures!*
-
-![Inventory](screenshots/inventory.png)
-*Manage your items and equipment in the inventory screen.*
-
-> Want to add your own screenshots? Place your images in the `screenshots/` folder and update the paths above!
-
----
 
 ## 🌟 What's Inside?
 - **Classic 2D Adventure:** Top-down gameplay with a nostalgic vibe.
