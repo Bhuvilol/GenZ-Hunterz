@@ -29,14 +29,18 @@ Welcome to **GenZ-Hunterz** — a fun, retro-inspired 2D adventure game made wit
 ---
 
 ## 🚀 How to Play
+
+Just Download the `GenzHunterz.jar` and play
+
+OR
+
 1. **Install Java 17+** if you don't have it already.
 2. **Download or clone** this repo.
-3. Use the included `GenzHunterz.jar` or build your own (see below).
-4. **Start the game:**
+3. **Start the game:**
    ```
    java -jar GenzHunterz.jar
    ```
-5. **Have fun!**
+4. **Have fun!**
 
 ---
 
