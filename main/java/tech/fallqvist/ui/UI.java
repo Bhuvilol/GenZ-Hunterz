@@ -152,7 +152,7 @@ public class UI {
         // TITLE TEXT
         graphics2D.setFont(graphics2D.getFont().deriveFont(Font.BOLD, 96F));
 
-        String text = "Blue Boy Adventure";
+        String text = "Genz-Hunterz";
         int x = UtilityTool.getXForCenterOfText(text, gamePanel, graphics2D);
         int y = gamePanel.getTileSize() * 3;
 
