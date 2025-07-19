@@ -24,7 +24,10 @@ Welcome to **GenZ-Hunterz** — a fun, retro-inspired 2D adventure game made wit
 - **F:** Shoot projectile (if you have one)
 - **C:** Character screen
 - **P:** Pause
-- **ESC:** Back / Cancel (in menus)
+- **ESC:** Back / Cancel / Options menu
+- **Arrow Keys:** Navigate menus and inventory
+- **T:** Toggle debug text (developer mode)
+- **R:** Reload current map (developer mode)
 
 ---
 
@@ -41,6 +44,8 @@ OR
    java -jar GenzHunterz.jar
    ```
 4. **Have fun!**
+
+> **Note:** The latest version includes fixes for configuration and map loading issues. The game should now run smoothly without crashes.
 
 ---
 
