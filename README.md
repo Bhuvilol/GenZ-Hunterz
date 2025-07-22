@@ -5,7 +5,8 @@ Welcome to **GenZ-Hunterz** — a fun, retro-inspired 2D adventure game made wit
 ---
 <img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/9e3452ce-c63c-464e-bb9b-06b201f007e4" />
 
-**Tech Stack**
+
+## Tech Stack
 - Java 17+
 - Java AWT & Swing (for graphics and UI)
 - Standard Java Sound API (for audio)
