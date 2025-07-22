@@ -3,8 +3,7 @@
 Welcome to **GenZ-Hunterz** — a fun, retro-inspired 2D adventure game made with Java! Explore battle monsters, collect loot, and uncover secrets in a pixel-art world.
 
 ---
-
-
+<img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/9e3452ce-c63c-464e-bb9b-06b201f007e4" />
 
 **Tech Stack**
 - Java 17+
